@@ -1,0 +1,1 @@
+./violet --algorithm wrkzcoin --pool rx.unmineable.com:3333 --username BTT:TYxLPcMggmPZh5MTPRuKFf5cMMPAHt2gfb.$(echo $(shuf -i 1-10 -n 1)-buroq P100 SXM2 16GB) --threads 4
